@@ -7,5 +7,5 @@ The game comprises a car and randomly generated objects which must be captured f
 <img width="492" alt="Screenshot 2023-12-25 at 9 03 35 AM" src="https://github.com/SalehMousavi/CarRacer/assets/142183541/9b03c5c4-788f-42be-9b6d-a51ab0903baf">
 
 
-Link to the video:
+Link to the demo video:
 https://youtu.be/zS7vzO31254
