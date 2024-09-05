@@ -1,3 +1,5 @@
+/* This code was provided by ECE241 UofT */
+
 /* This module implements the VGA controller. It assumes a 25MHz clock is supplied as input.
  *
  * General approach:
