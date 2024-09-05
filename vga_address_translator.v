@@ -1,3 +1,5 @@
+/* This code was provided by ECE241 UofT */
+
 /* This module converts a user specified coordinates into a memory address.
  * The output of the module depends on the resolution set by the user.
  */
