@@ -1,3 +1,5 @@
+/* Base code provided by ECE241 UofT, some additions by Saleh Mousavi to enable double buffering */
+
 /* VGA Adapter
  * ----------------
  *
